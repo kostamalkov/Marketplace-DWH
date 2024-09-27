@@ -1,4 +1,5 @@
-# de-project-sprint-2 - Marketplace DWH
+
+Marketplace DWH
 
 ## План проекта
 ### Шаг 1. Подключение к базе
